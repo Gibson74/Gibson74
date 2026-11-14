@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a student at Cal Poly Pomona
+Hello everyone, I'm Garrison, a Computer Science senior at Cal Poly Pomona interested in flight software, geospatial research, and software development!
 
 
 ## 🌐 Socials:
